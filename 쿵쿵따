@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T05:36:04.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3vE9EjUKFxj0mZCoiE0_" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T05:41:47.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vDOdLL9hz9JLFPCn52bP" version="20.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1131" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="bKoxznmWWzWHM8irc1o1-80" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3399;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bKoxznmWWzWHM8irc1o1-69" target="bKoxznmWWzWHM8irc1o1-79">
           <mxGeometry x="-0.6181" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="585" />
+              <mxPoint x="250" y="685" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-69" value="현재순서 +1 &amp;gt; 총 인원" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="401.87" y="545" width="139.38" height="80" as="geometry" />
+          <mxGeometry x="401.87" y="645" width="139.38" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bKoxznmWWzWHM8irc1o1-0" target="bKoxznmWWzWHM8irc1o1-25">
           <mxGeometry relative="1" as="geometry" />
@@ -64,14 +64,17 @@
           <mxGeometry x="400" y="190" width="141.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-44" value="다시 입력하시오" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="260" width="100" height="60" as="geometry" />
+          <mxGeometry x="700" y="440" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-49" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3399;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bKoxznmWWzWHM8irc1o1-46" target="bKoxznmWWzWHM8irc1o1-48">
           <mxGeometry y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bKoxznmWWzWHM8irc1o1-46" value="다음 사람이 &lt;br&gt;제시어 입력" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bKoxznmWWzWHM8irc1o1-90" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bKoxznmWWzWHM8irc1o1-46" target="bKoxznmWWzWHM8irc1o1-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKoxznmWWzWHM8irc1o1-46" value="제시어 대입" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410.615" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-55" value="no" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#66B2FF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bKoxznmWWzWHM8irc1o1-48" target="bKoxznmWWzWHM8irc1o1-44">
@@ -83,22 +86,22 @@
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-75" value="&lt;font color=&quot;#ff3399&quot;&gt;yes&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#66B2FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bKoxznmWWzWHM8irc1o1-48" target="bKoxznmWWzWHM8irc1o1-69">
           <mxGeometry x="-0.1106" y="1" relative="1" as="geometry">
-            <mxPoint x="360.8499999999999" y="450" as="sourcePoint" />
-            <mxPoint x="472" y="540" as="targetPoint" />
+            <mxPoint x="360.8499999999999" y="550" as="sourcePoint" />
+            <mxPoint x="472" y="640" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-48" value="&lt;br&gt;&amp;nbsp; 전에 입력한 제시어와 이어지는가?&amp;nbsp;&amp;nbsp;&lt;br&gt;제시어가 3글자 인가?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="355.84999999999997" y="410" width="229.54" height="100" as="geometry" />
+          <mxGeometry x="355.84999999999997" y="510" width="229.54" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-64" value="&lt;font color=&quot;#000000&quot;&gt;끝&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontColor=#FF3399;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="431.87" y="660" width="79.38" height="75" as="geometry" />
+          <mxGeometry x="431.87" y="760" width="79.38" height="75" as="geometry" />
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-72" value="&lt;font color=&quot;#66b2ff&quot;&gt;no&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3399;elbow=vertical;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bKoxznmWWzWHM8irc1o1-69" target="bKoxznmWWzWHM8irc1o1-46">
           <mxGeometry x="-0.849" relative="1" as="geometry">
             <mxPoint x="660" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="670" y="585" />
+              <mxPoint x="670" y="705" />
               <mxPoint x="670" y="340" />
             </Array>
             <mxPoint as="offset" />
@@ -106,20 +109,23 @@
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-74" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF3399;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="bKoxznmWWzWHM8irc1o1-64">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="471.5999999999999" y="624.977041182379" as="sourcePoint" />
-            <mxPoint x="470.5999999999999" y="680" as="targetPoint" />
+            <mxPoint x="471.5999999999999" y="724.977041182379" as="sourcePoint" />
+            <mxPoint x="470.5999999999999" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#FF3399;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bKoxznmWWzWHM8irc1o1-79" target="bKoxznmWWzWHM8irc1o1-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="480.0000000000001" as="targetPoint" />
+            <mxPoint x="300" y="580.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="460" />
+              <mxPoint x="260" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bKoxznmWWzWHM8irc1o1-79" value="첫 번째 사람이 &lt;br&gt;제시어 입력" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bKoxznmWWzWHM8irc1o1-89" value="다음 사람이&lt;br&gt;제시어 입력" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410.615" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
